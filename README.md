@@ -1,0 +1,2 @@
+# Excel2Xml
+为了将翻译好的国际化语言Excel表格转为xml文件
